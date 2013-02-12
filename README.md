@@ -9,6 +9,7 @@ framework, so you're free to architect your code in the way that you want.
 
 * Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 * Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
+* SoftwareStudio Deployed Home: [http://html5bp.azurewebsites.net/](http://html5bp.azurewebsites.net/)
 * Twitter: [@h5bp](http://twitter.com/h5bp)
 
 
